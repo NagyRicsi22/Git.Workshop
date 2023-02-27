@@ -1,1 +1,1 @@
-# Git.Workshop
+# Nagy Richárd
